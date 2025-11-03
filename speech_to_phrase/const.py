@@ -49,6 +49,7 @@ class Language(str, Enum):
     FINNISH = "fi"
     MONGOLIAN = "mn"
     SLOVENIAN = "sl"
+    SWEDISH = "sv"
     SWAHILI = "sw"
     # THAI = "th"  bad model
     TURKISH = "tr"
